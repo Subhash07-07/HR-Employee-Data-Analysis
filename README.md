@@ -1,12 +1,12 @@
 # 📊 Project Visualizations
 
 ## Employee Attrition
-![Employee Attrition]("C:\Users\vemul\OneDrive\Pictures\Documents\GitHub\HR-Employee-Data-Analysis\attrition_distribution.png")
+![Employee Attrition]("attrition_distribution.png")
 
 ---
 
 ## Gender Distribution
-![Gender Distribution](images/gender_distribution.png)
+![Gender Distribution](gender_distribution.png)
 
 ---
 
