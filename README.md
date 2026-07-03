@@ -1,3 +1,52 @@
+# 📊 Project Visualizations
+
+## Employee Attrition
+![Employee Attrition](images/attrition_distribution.png)
+
+---
+
+## Gender Distribution
+![Gender Distribution](images/gender_distribution.png)
+
+---
+
+## Employees by Department
+![Employees by Department](images/employees_by_department.png)
+
+---
+
+## Average Salary by Department
+![Average Salary by Department](images/average_salary_department.png)
+
+---
+
+## Average Salary by Job Role
+![Average Salary by Job Role](images/salary_by_jobrole.png)
+
+---
+
+## Overtime Distribution
+![Overtime Distribution](images/overtime_distribution.png)
+
+---
+
+## Age Group Distribution
+![Age Group Distribution](images/age_group_distribution.png)
+
+---
+
+## Experience Level Distribution
+![Experience Level Distribution](images/experience_level_distribution.png)
+
+---
+
+## Income Category Distribution
+![Income Category Distribution](images/income_category_distribution.png)
+
+---
+
+## Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
 # 📊 HR Employee Data Analysis using Python & Pandas
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
