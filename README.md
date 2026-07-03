@@ -1,7 +1,7 @@
 # 📊 Project Visualizations
 
 ## Employee Attrition
-![Employee Attrition](attrition_distribution.png)
+![Employee Attrition]("C:\Users\vemul\OneDrive\Pictures\Documents\GitHub\HR-Employee-Data-Analysis\attrition_distribution.png")
 
 ---
 
