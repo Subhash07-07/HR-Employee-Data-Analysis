@@ -1,7 +1,7 @@
 # 📊 Project Visualizations
 
 ## Employee Attrition
-![Employee Attrition](images/attrition_distribution.png)
+![Employee Attrition](attrition_distribution.png)
 
 ---
 
