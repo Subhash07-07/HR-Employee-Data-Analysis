@@ -1,12 +1,12 @@
 # 📊 Project Visualizations
 
 ## Employee Attrition
-![Employee Attrition]("attrition_distribution.png")
+![Employee Attrition]("images/attrition_distribution.png")
 
 ---
 
 ## Gender Distribution
-![Gender Distribution](gender_distribution.png)
+![Gender Distribution](images/gender_distribution.png)
 
 ---
 
