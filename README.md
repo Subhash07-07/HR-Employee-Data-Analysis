@@ -28,7 +28,7 @@
 
 ## 💰 Average Monthly Salary by Department
 
-![Average Salary by Department](average_salary_department.png)
+![Average Salary by Department](imagesaverage_salary_department.png)
 
 ---
 
