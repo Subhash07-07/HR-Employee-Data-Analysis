@@ -47,7 +47,7 @@
 ## ⏰ Overtime Distribution
 
 ![Overtime Distribution](overtime_distribution.png)
-# 📊 HR Employee Data Analysis using Python & Pandas
+# HR Employee Data Analysis using Python & Pandas
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
@@ -55,9 +55,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-# 📊 HR Employee Data Analysis using Python & Pandas
+# HR Employee Data Analysis using Python & Pandas
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes employee data from the IBM HR Analytics dataset to uncover valuable insights into employee attrition, salary distribution, departmental performance, and workforce demographics.
 
@@ -65,7 +65,7 @@ The objective is to perform Exploratory Data Analysis (EDA) using Python and Pan
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze employee attrition trends
 - Understand salary distribution across departments
@@ -77,7 +77,7 @@ The objective is to perform Exploratory Data Analysis (EDA) using Python and Pan
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Dataset:** IBM HR Analytics Employee Attrition & Performance
 - **Records:** 1470 Employees
@@ -85,7 +85,7 @@ The objective is to perform Exploratory Data Analysis (EDA) using Python and Pan
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -96,7 +96,7 @@ The objective is to perform Exploratory Data Analysis (EDA) using Python and Pan
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 HR-Employee-Data-Analysis/
@@ -116,7 +116,7 @@ HR-Employee-Data-Analysis/
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```
 Data Collection
@@ -136,7 +136,7 @@ Business Insights
 
 ---
 
-## 📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The project answers several HR business questions, including:
 
