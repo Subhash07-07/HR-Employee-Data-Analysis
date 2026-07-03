@@ -1,5 +1,13 @@
 # 📊 HR Employee Data Analysis using Python & Pandas
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+# 📊 HR Employee Data Analysis using Python & Pandas
+
 ## 📌 Project Overview
 
 This project analyzes employee data from the IBM HR Analytics dataset to uncover valuable insights into employee attrition, salary distribution, departmental performance, and workforce demographics.
